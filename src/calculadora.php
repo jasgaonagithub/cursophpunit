@@ -8,7 +8,7 @@ class Calculadora {
      * Realiza la suma de dos numeros
      */
     public function sumar($a, $b){
-        return $a + $b;
+        return $a * $b;
     }
 
     /**
